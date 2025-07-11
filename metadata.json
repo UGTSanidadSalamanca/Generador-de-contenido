@@ -1,0 +1,6 @@
+{
+  "name": "Generador de Contenido: Sanidad CyL",
+  "description": "Una aplicación para generar ideas de contenido (infografías, videos) sobre la gestión de personal y tecnología en los hospitales de Castilla y León utilizando la API de Gemini.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
